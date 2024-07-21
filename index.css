@@ -56,7 +56,7 @@ footer{
 #submit{
 display: inline-block;
 padding:4px 16px;
-background-color:#344620;
+background-color:#48632C;
 color: #FEFAE0;
 border:1px solid #344620;
 border-radius: 12px;
@@ -67,11 +67,15 @@ margin-left: 14px;
 
 #submit:hover{
   box-shadow: 3px 3px 3px #1F2A13;
+  background-color:#FEFAE0;
+  color:#48632C;
 }
 
 #input{
   padding:6px 20px;
   margin-bottom: 10px;
+    box-shadow: 3px 3px 3px #1F2A13;
+    border:none;
 }
 
 p{
