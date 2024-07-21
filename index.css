@@ -30,6 +30,11 @@ h1{
 
 }
 
+.recipeOutput{
+  color:#344620;
+  margin-top: 20px;
+}
+
 #submit{
 display: inline-block;
 padding:4px 16px;
